@@ -13,7 +13,7 @@ django-taggit = "^1.5.1"
 django-rest-auth = "^0.9.5"
 djangorestframework-jwt = "^1.11.0"
 drf-spectacular = "^0.20.2"
-Pillow = "^8.4.0"
+Pillow = "^9.0.1"
 
 [tool.poetry.dev-dependencies]
 black = "^21.10b0"
